@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 
 import { LocationOn, Cake } from '../../styles/Icons'
 
@@ -16,10 +16,20 @@ export const ProfileData = styled.div`
   
 `
 
-export const LocationIcon = styled(LocationOn)`
+const IconCss = css`
+  width: 20px;
+  height: 20px;
 
+  color: var(--gray);
 `
 
-export const CakeIcon = styled(Cake)``
+export const LocationIcon = styled(LocationOn)`
+  ${IconCss}
+`
+
+export const CakeIcon = styled(Cake)`
+  ${IconCss}
+
+`
 
 export const Followage = styled.div``
