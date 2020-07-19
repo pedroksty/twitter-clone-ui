@@ -36,6 +36,7 @@ export default createGlobalStyle`
     --outline: #2F3336;
     --retweet: #00c06b;
     --like: #e8235e;
+    --twitter: #1da1f2;
     --twitter-dark-hover: #011017;
     --twitter-light-hover: #2C8ED6;
   }
