@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Container, Header, BackIcon, ProfileInfo, BottomMenu, HomeIcon, SearchIcon, EmailIcon } from './styles'
+import { Container, Header, BackIcon, ProfileInfo, BottomMenu, HomeIcon, SearchIcon, EmailIcon, BellIcon } from './styles'
 
 const Main: React.FC = () => {
   return (
@@ -19,7 +19,7 @@ const Main: React.FC = () => {
       {/* <ProfilePage /> */}
 
       <BottomMenu>
-        <HomeIcon />
+        <HomeIcon className="active" />
         <SearchIcon />
         <BellIcon />
         <EmailIcon />
