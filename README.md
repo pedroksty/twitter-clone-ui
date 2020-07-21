@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Coleta-Ecologica" title="Coleta-Ecologica" src="./assets/banner.png" />
+    <img alt="Coleta-Ecologica" title="Coleta-Ecologica" src="./assets/banner.jpg" />
 </h1>
 
 <p align="center">
