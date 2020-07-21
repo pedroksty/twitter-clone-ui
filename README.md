@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img alt="Coleta-Ecologica" title="Coleta-Ecologica" src="./assets/banner.jpg" />
+    <img alt="twitter-clone-ui" title="twitter-clone-ui" src="./assets/banner.jpg" />
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroksty/coleta-ecologica?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroksty/twitter-clone-ui?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroksty/coleta-ecologica">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroksty/twitter-clone-ui">
 
   	
   <a href="https://www.twitter.com/pedroksty/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpedroksty%2Fnlw1">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpedroksty">
   </a>
 	
   
