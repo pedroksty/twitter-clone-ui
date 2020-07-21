@@ -48,7 +48,7 @@ Aplicação em React com TypeScript e styled components com objetivo de clonar a
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-  <img alt="twitter-clone-ui" title="twitter-clone-ui" src="./assets/sucesso-web.svg">
+  <img alt="twitter-clone-ui" title="twitter-clone-ui" src="./assets/desktop-twitter.png">
 </p>
 
 ## 🛠 Tecnologias
