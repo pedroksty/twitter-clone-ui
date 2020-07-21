@@ -20,6 +20,11 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "space-before-function-paren": "off"
+        "space-before-function-paren": "off",
+        "quote-props": "off",
+        "valid-typeof": "off",
+        "no-prototype-builtins": "off",
+        "react/prop-types": 0,
+        "react/jsx-key": 0
     }
 }
